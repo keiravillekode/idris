@@ -313,6 +313,14 @@
         "difficulty": 4
       },
       {
+        "slug": "game-of-life",
+        "name": "Conway's Game of Life",
+        "uuid": "7bbf8b3b-cb2b-416b-853d-228634fb35dd",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "pythagorean-triplet",
         "name": "Pythagorean Triplet",
         "uuid": "baff4679-ea1b-4a7c-b958-cdac93e5656c",
