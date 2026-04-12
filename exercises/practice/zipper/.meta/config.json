@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "keiravillekode"
+  ],
+  "files": {
+    "solution": [
+      "src/Zipper.idr"
+    ],
+    "test": [
+      "test/src/Main.idr"
+    ],
+    "example": [
+      "example/Zipper.idr"
+    ]
+  },
+  "blurb": "Creating a zipper for a binary tree."
+}

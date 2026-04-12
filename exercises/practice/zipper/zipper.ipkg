@@ -1,0 +1,4 @@
+package zipper
+depends = contrib
+modules = Zipper
+sourcedir = "src"

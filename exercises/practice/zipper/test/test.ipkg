@@ -1,0 +1,6 @@
+package zipper-test
+depends = zipper
+  , tester
+main = Main
+executable = "zipper-test"
+sourcedir = "src"
