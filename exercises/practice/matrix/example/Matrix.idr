@@ -1,8 +1,13 @@
 module Matrix
 
+import Data.String
+
 export
-row : String -> Int -> String
-row str index = ?row_rhs
+row : String -> Nat -> String
+row str index = split (== '\n') str
+
+list_lookup n xs
+
 
 split by '\n'
 take (index - 1 ) entry
@@ -10,7 +15,7 @@ split by space
 map convert to int
 
 export
-column : String -> Int -> String
+column : String -> Nat -> String
 column str index = ?column_rhs
 
 split by '\n'
