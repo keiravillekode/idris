@@ -1,9 +1,9 @@
 module Matrix
 
 export
-row : String -> Int -> String
+row : String -> Nat -> Maybe String
 row str index = ?row_rhs
 
 export
-column : String -> Int -> String
+column : String -> Nat -> Maybe String
 column str index = ?column_rhs

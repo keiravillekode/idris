@@ -3,4 +3,4 @@ def generate_test(case):
     expected = case["expected"]
     string = case["input"]["string"].replace("\n", "\\n")
     index = case["input"]["index"]
-    return f'assertEq ({property} "{string}" {index}) {expected}'
+    return f'assertEq ({property} "{string}" {index}) $ Just {expected}'
