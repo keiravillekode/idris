@@ -1,0 +1,6 @@
+package matrix-test
+depends = matrix
+  , tester
+main = Main
+executable = "matrix-test"
+sourcedir = "src"

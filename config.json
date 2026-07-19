@@ -401,6 +401,14 @@
         "difficulty": 4
       },
       {
+        "slug": "matrix",
+        "name": "Matrix",
+        "uuid": "0251b50a-faa5-46e8-9adf-9bcd766bca1a",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
         "slug": "robot-simulator",
         "name": "Robot Simulator",
         "uuid": "5faa4ded-1358-4310-84b6-ad3a8d4f03ea",

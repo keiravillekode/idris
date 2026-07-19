@@ -1,0 +1,10 @@
+[custom.all.matrix]
+type = "local"
+path = "."
+ipkg = "matrix.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.matrix-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
